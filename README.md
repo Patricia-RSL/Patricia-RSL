@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Patrícia Lima</h1>
 <h3 align="center">A passionate full-stack developer from Rio de Janeiro, Brazil</h3>
-
+I have 5 years of experience in development with Java, Angular, and PostgreSQL. Although these are my main stacks, I also have knowledge of Python, Django, and C.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/patriciars-lima/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/patriciars-lima/" height="30" width="40" /></a>
