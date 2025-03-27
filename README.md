@@ -1,5 +1,5 @@
 <h1 align="center">Patrícia Lima</h1>
-<h3 align="center">Uma desenvolvedora full-stack apaixonada do Rio de Janeiro, Brasil</h3>  
+<h3 align="center">Desenvolvedora full-stack localizada em Maricá, Rio de Janeiro</h3>  
 
 [English version](https://github.com/Patricia-RSL/Patricia-RSL/blob/main/README.en.md) 
 
