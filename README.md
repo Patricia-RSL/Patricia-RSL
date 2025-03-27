@@ -1,6 +1,7 @@
 <h1 align="center">Patrícia Lima</h1>
 <h3 align="center">Uma desenvolvedora full-stack apaixonada do Rio de Janeiro, Brasil</h3>  
 [English version](https://github.com/Patricia-RSL/Patricia-RSL/blob/main/README.en.md) 
+
 Tenho 5 anos de experiência em desenvolvimento com Java, Angular e PostgreSQL, com forte expertise em Spring Boot, Spring Data e Spring MVC.  
 
 Além das minhas stacks principais, também tenho conhecimento em Python, Django, C, Git, Elasticsearch e experiência com Bootstrap, RabbitMQ e Docker. Além disso, já trabalhei com integração de gateways de pagamento como Stripe e OpenPix.  
