@@ -3,14 +3,13 @@
 
 I have 5 years of experience in development with Java, Angular, and PostgreSQL, with strong expertise in Spring Boot, Spring Data, and Spring MVC.
 
-Beyond my core tech stack, I also have experience with Python, Django, C, Git, Elasticsearch, and Bootstrap. Additionally, I have a solid understanding of WordPress, RabbitMQ, and Docker, as well as experience integrating payment gateways like Stripe and OpenPix.
+Beyond my core tech stack, I also have knowledge of Python, Django, C, Git, Elasticsearch, and have some experience with Bootstrap, RabbitMQ, and Docker. Additionally, I have experience integrating payment gateways like Stripe and OpenPix.
 
 I graduated in Computer Science from UFF (Universidade Federal Fluminense, Brazil) in 2021 and am set to complete my master's degree at the same university in April 2025. My research focused on Software Engineering with an emphasis on Human-Computer Interaction, particularly exploring the relationship between technology and gender.
 
 Through this work, I gained practical experience in user experience (UX) research, including designing and conducting surveys, focus groups, co-design activities, and stakeholder interviews to identify and evaluate functional requirements.
 
 Having primarily worked on private projects, I am currently building my portfolio and am open to freelance opportunities.
-
 <br/>  
 
 ## Connect with me  
