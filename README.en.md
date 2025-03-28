@@ -12,7 +12,7 @@ Through this work, I gained practical experience in user experience (UX) researc
 Having primarily worked on private projects, I am currently building my portfolio and am open to freelance opportunities.
 <br/>  
 
-📄 Check out my résumé: Click here(https://github.com/Patricia-RSL/Patricia-RSL/blob/main/PatriciaLima_Resume.pdf)
+📄 Check out my résumé: [Click here](https://github.com/Patricia-RSL/Patricia-RSL/blob/main/PatriciaLima_Resume.pdf)
 
 ## Connect with me  
 <div align="center">
