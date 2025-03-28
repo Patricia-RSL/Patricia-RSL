@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Patrícia Lima</h1>
+<h1 align="center">I'm Patrícia Lima</h1>
 <h3 align="center">A passionate full-stack developer from Rio de Janeiro, Brazil</h3>  
 
 I have 5 years of experience in development with Java, Angular, and PostgreSQL, with strong expertise in Spring Boot, Spring Data, and Spring MVC.
